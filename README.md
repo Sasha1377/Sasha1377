@@ -10,7 +10,7 @@ He started programming since school, because he had to participate in the progra
 * ✉️  You can contact me at [sasha.klishch1@gmail.com](mailto:sasha.klishch1@gmail.com)
 * 🧠  I'm learning a React
 <hr>
-### Skills
+<h3>Skills</h3>
 
 
 <div align="left">
@@ -25,11 +25,10 @@ He started programming since school, because he had to participate in the progra
 </div>
 
 <hr>
-### Socials
+<h3> Socials </h3>
 
 <p align="left"> <a href="https://www.github.com/Sasha1377" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/oleksandr_klishch" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 <hr>
-### Badges
 
 <b>My GitHub Stats</b>
 
