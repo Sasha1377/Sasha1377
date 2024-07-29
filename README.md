@@ -37,4 +37,4 @@ He started programming since school, because he had to participate in the progra
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sasha1377&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha1377&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fboom-comic-macniten-XFvN3jrFTiA7FnjA7g&psig=AOvVaw2oUHP9m5YzDUttXBfTB-5T&ust=1722357020909000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiJqvjVzIcDFQAAAAAdAAAAABAE" alt='boom'>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x3dWU2ZW1vcnA5cjMwZG5wNm9qMWJha2V2b2J5aDJ6cGl6dDB2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XFvN3jrFTiA7FnjA7g/giphy.webp" alt='boom'>
