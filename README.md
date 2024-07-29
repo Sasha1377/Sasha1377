@@ -33,7 +33,7 @@ He started programming since school, because he had to participate in the progra
 
 <b>My GitHub Stats</b>
 
-![](https://github-readme-stats.vercel.app/api?username=Sasha1377&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br width='30vw'/>
+![](https://github-readme-stats.vercel.app/api?username=Sasha1377&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sasha1377&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha1377&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
